@@ -1,4 +1,4 @@
-### **What is `functools.partial`?**
+### **What is `functools.partial` in Python?**
 `functools.partial` creates a new function by partially applying arguments to an existing function. This is helpful for simplifying function calls in scenarios where certain arguments are repetitive or fixed.
 
 The `functools.partial` function in Python allows you to "freeze" some portion of a function's arguments or keywords, creating a new function with fewer parameters. It's especially useful when you want to fix certain parameters of a function while keeping others flexible.
